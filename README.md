@@ -68,34 +68,52 @@ Bash utilities | System-level commands
 ---
 
 📊 Example Output
+
 Network: HomeNetwork
+
 Security: WPA2
+
 Level: STRONG
+
 Recommendation: Good — upgrade to WPA3 if supported.
 
+
 Network: CafeWiFi
+
 Security: OPEN
+
 Level: VERY WEAK
+
 Recommendation: Extremely unsafe — avoid connecting.
+
 
 ---
 
 🏆 Achievements
 
-✅ Classifies Wi-Fi security levels accurately
-✅ Provides clear security improvement steps
-✅ Multi-method scanning for reliability
+✅ Classifies Wi-Fi security levels accurately.
+
+✅ Provides clear security improvement steps.
+
+✅ Multi-method scanning for reliability.
+
 ✅ Beginner-friendly & educational output
+
 ✅ Built-in troubleshooting messages
+
 
 ⚠️ Legal & Ethical Use
 
 This tool is for:
 
 ✅ Learning cybersecurity
+
 ✅ Personal/home network auditing
+
 ✅ Authorized penetration testing
 
+
 Do NOT scan networks without explicit permission.
+
 Unauthorized scanning violates laws & privacy policies.
 
