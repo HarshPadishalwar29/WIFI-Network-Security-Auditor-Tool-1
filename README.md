@@ -1,4 +1,4 @@
-# 🔐 WiFi Security Auditor
+# 🔐 WiFi Security Auditor Tool
 
 A comprehensive, beginner-friendly Wi-Fi security auditing tool built in Python. This tool scans nearby wireless networks, identifies security protocols, evaluates encryption strength, and provides actionable recommendations to enhance network protection. Ideal for cybersecurity learners, ethical penetration testers (with authorization), and home network security assessments.
 
