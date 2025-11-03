@@ -101,6 +101,7 @@ Recommendation: Extremely unsafe — avoid connecting.
 
 ✅ Built-in troubleshooting messages
 
+--- 
 
 ⚠️ Legal & Ethical Use
 
